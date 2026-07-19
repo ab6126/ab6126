@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anindita 👋
 
-<!--
-**ab6126/ab6126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the Rochester Institute of Technology (RIT) who believes every project is another step toward becoming a better software engineer.
 
-Here are some ideas to get you started:
+I enjoy building software that solves real-world problems while continuously strengthening my understanding of computer science fundamentals. Every semester teaches me something new, and every project helps me write cleaner, more thoughtful, and more maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently, I'm focused on
+
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ☕ Java & Python
+- 📚 Preparing for Software Engineering internships
+
+## 🌍 Beyond Coding
+
+Outside of coding, I enjoy listening to music, meeting new people,innovative ideas, following the stock market and the tech industry, exploring new technologies, and challenging myself to learn something new every day.
