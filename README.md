@@ -1,8 +1,14 @@
 # Hi, I'm Anindita 👋
 
-I'm a Computer Science student at the Rochester Institute of Technology (RIT) who believes every project is another step toward becoming a better software engineer.
+I'm a Computer Science student at the Rochester Institute of Technology (RIT) passionate about building scalable software and solving real-world problems. I enjoy developing full-stack applications, exploring AI, and writing clean, maintainable code. I'm currently seeking Software Engineering internship opportunities where I can contribute while continuing to grow as an engineer.
 
-I enjoy building software that solves real-world problems while continuously strengthening my understanding of computer science fundamentals. Every semester teaches me something new, and every project helps me write cleaner, more thoughtful, and more maintainable code.
+## 💻 Technical Skills
+
+- **Programming Languages:** Java, Python, C++, C, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Databases:** MySQL, SQLite
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms, REST APIs, Version Control
 
 ## 🌱 Currently, I'm focused on
 
