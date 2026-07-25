@@ -14,3 +14,9 @@ I enjoy building software that solves real-world problems while continuously str
 ## 🌍 Beyond Coding
 
 Outside of coding, I enjoy listening to music, meeting new people,innovative ideas, following the stock market and the tech industry, exploring new technologies, and challenging myself to learn something new every day.
+
+## 📫 Contact
+
+Email: ab6126@rit.edu
+
+LinkedIn: https://linkedin.com/in/anindita-bhowmik-rit
